@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+.venv/
+venv/
+figures/
+BlinkIT_Grocery_Data_Cleaned.xlsx
+Sapphire IQ Blinkit Grocery Sales Analysis.pdf
